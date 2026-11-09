@@ -1,15 +1,15 @@
 {
-  "Array": [
-    1,
-    2,
-    3
+  "allowlisted_uuids": [],
+  "blocked_uuids": [
+    "00000000-0000-0000-0000-000000000000"
   ],
-  "Boolean": true,
-  "Null": null,
-  "Number": 123,
-  "Object": {
-    "a": "b",
-    "c": "d"
-  },
-  "String": "Hello World"
+  "blocked_domains": [
+    "example-blocked-domain.com"
+  ],
+  "blocked_keywords": [
+    { "term": "example-latin-term", "reason": "سبب الحجب" }
+  ],
+  "exact_blacklist": [
+    { "term": "اسم المحطة بالعربي", "reason": "سبب الحجب" }
+  ]
 }
