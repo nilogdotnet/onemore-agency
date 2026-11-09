@@ -1,15 +1,58 @@
 {
   "allowlisted_uuids": [],
-  "blocked_uuids": [
-    "00000000-0000-0000-0000-000000000000"
-  ],
-  "blocked_domains": [
-    "example-blocked-domain.com"
-  ],
+  "blocked_uuids": [],
+  "blocked_domains": [],
   "blocked_keywords": [
-    { "term": "example-latin-term", "reason": "سبب الحجب" }
+    { "term": "alnour", "reason": "Designated FTO/SDGT affiliation (UN/EU/US)" },
+    { "term": "almanar", "reason": "Designated FTO/SDGT affiliation (UN/EU/US)" },
+    { "term": "hizbullah", "reason": "Designated FTO/SDGT affiliation (UN/EU/US)" },
+    { "term": "hezbollah", "reason": "Designated FTO/SDGT affiliation (UN/EU/US)" },
+    { "term": "nasrallah", "reason": "Designated FTO/SDGT affiliation (UN/EU/US)" },
+    { "term": "alaqsa", "reason": "Designated Terrorist Org affiliation (UN/EU/US)" },
+    { "term": "sawtalaqsa", "reason": "Designated Terrorist Org affiliation (UN/EU/US)" },
+    { "term": "hamas", "reason": "Designated FTO affiliation (UN/EU/US)" },
+    { "term": "alqassam", "reason": "Designated FTO affiliation (UN/EU/US)" },
+    { "term": "alqudsradio", "reason": "Designated Terrorist Org affiliation (UN/EU/US)" },
+    { "term": "sawtalquds", "reason": "Designated Terrorist Org affiliation (UN/EU/US)" },
+    { "term": "pijradio", "reason": "Designated Terrorist Org affiliation (UN/EU/US)" },
+    { "term": "islamicjihad", "reason": "Designated Terrorist Org affiliation (UN/EU/US)" },
+    { "term": "qudsbrigades", "reason": "Designated Terrorist Org affiliation (UN/EU/US)" },
+    { "term": "almasirah", "reason": "Designated Terrorist Org affiliation (UN/EU/US)" },
+    { "term": "ansarallah", "reason": "Designated Terrorist Org affiliation (UN/EU/US)" },
+    { "term": "samfm", "reason": "Designated Terrorist Org affiliation (UN/EU/US)" },
+    { "term": "albayan", "reason": "Designated Terrorist Org affiliation (UN/EU/US)" },
+    { "term": "sawtaljihad", "reason": "Designated Terrorist Org affiliation (UN/EU/US)" },
+    { "term": "isismedia", "reason": "Designated Terrorist Org affiliation (UN/EU/US)" },
+    { "term": "caliphate", "reason": "Extremist propaganda (UN/EU/US)" },
+    { "term": "daesh", "reason": "Designated Terrorist Org affiliation (UN/EU/US)" },
+    { "term": "islamicstate", "reason": "Designated Terrorist Org affiliation (UN/EU/US)" },
+    { "term": "alshabab", "reason": "Designated FTO affiliation (UN/EU/US)" },
+    { "term": "bokoharam", "reason": "Designated FTO affiliation (UN/EU/US)" },
+    { "term": "talibanradio", "reason": "Designated Terrorist Org affiliation (UN/EU/US)" },
+    { "term": "jundallah", "reason": "Designated Terrorist Org affiliation (UN/EU/US)" }
   ],
   "exact_blacklist": [
-    { "term": "اسم المحطة بالعربي", "reason": "سبب الحجب" }
+    { "term": "sawt al-aqsa", "reason": "Designated Terrorist Org affiliate" },
+    { "term": "sawt al-quds", "reason": "Designated Terrorist Org affiliate" },
+    { "term": "radio al-nour", "reason": "Designated Terrorist Org affiliate" },
+    { "term": "al-manar radio", "reason": "Designated Terrorist Org affiliate" },
+    { "term": "radio al-bayan", "reason": "Designated Terrorist Org affiliate" },
+    { "term": "al-masirah radio", "reason": "Designated Terrorist Org affiliate" },
+    { "term": "sam fm yemen", "reason": "Designated Terrorist Org affiliate" },
+    { "term": "voice of jihad", "reason": "Extremist propaganda" },
+    { "term": "caliphate radio", "reason": "Extremist propaganda" },
+    { "term": "daesh radio", "reason": "Designated Terrorist Org affiliate" },
+    { "term": "taliban radio", "reason": "Designated Terrorist Org affiliate" },
+    { "term": "al-shabab radio", "reason": "Designated Terrorist Org affiliate" },
+    { "term": "al nour radio", "reason": "Spaced/reordered variant of an existing entry" },
+    { "term": "al manar", "reason": "Spaced variant of the almanar keyword" },
+    { "term": "al masirah", "reason": "Spaced variant of the almasirah keyword" },
+    { "term": "قناة المنار", "reason": "Arabic name, designated affiliate" },
+    { "term": "اذاعة المنار", "reason": "Arabic name, designated affiliate" },
+    { "term": "قناة المسيره", "reason": "Arabic name, designated affiliate" },
+    { "term": "صوت الاقصى", "reason": "Arabic name, designated affiliate" },
+    { "term": "صوت القدس", "reason": "Arabic name, designated affiliate" },
+    { "term": "حزب الله", "reason": "Designated FTO/SDGT affiliation" },
+    { "term": "كتائب القسام", "reason": "Designated FTO affiliation" }
   ]
 }
