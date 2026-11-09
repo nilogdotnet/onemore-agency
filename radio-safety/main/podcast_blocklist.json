@@ -1,0 +1,13 @@
+{
+  "allowlisted_feed_ids": [],
+  "blocked_feed_ids": [],
+  "blocked_domains": [],
+  "blocked_keywords": [
+    { "term": "almanar", "reason": "Designated FTO/SDGT affiliation (UN/EU/US)" },
+    { "term": "almasirah", "reason": "Designated Terrorist Org affiliation (UN/EU/US)" }
+  ],
+  "exact_blacklist": [
+    { "term": "ناصر محمد اليماني", "reason": "Extremist religious content (app content policy)" },
+    { "term": "قناة المنار", "reason": "Designated affiliate" }
+  ]
+}
