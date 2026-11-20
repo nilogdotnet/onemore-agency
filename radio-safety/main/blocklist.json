@@ -131,6 +131,15 @@
     { "term": "تنظيم القاعدة", "reason": "Designated FTO affiliation" },
     { "term": "حركه الشباب", "reason": "Designated FTO affiliation (normalized)" },
     { "term": "حركة الشباب", "reason": "Designated FTO affiliation" },
-    { "term": "بوكو حرام", "reason": "Designated FTO affiliation" }
+    { "term": "بوكو حرام", "reason": "Designated FTO affiliation" },
+
+    { "term": "nidaa fm", "reason": "App content policy (Lebanon)" },
+    { "term": "radio liban", "reason": "App content policy (Lebanon)" },
+    { "term": "voice of grace", "reason": "App content policy (Lebanon)" },
+    { "term": "sawt el shaeb", "reason": "App content policy (Lebanon)" },
+    { "term": "voice of charity", "reason": "App content policy (Lebanon)" },
+    { "term": "santa maria radio", "reason": "App content policy (Lebanon)" },
+    { "term": "ayat al quran radio", "reason": "App content policy (Lebanon)" },
+    { "term": "altawhid radio", "reason": "App content policy (Lebanon)" }
   ]
 }
