@@ -1,16 +1,27 @@
 {
   "allowlisted_feed_ids": [],
   "blocked_feed_ids": [],
-  "blocked_domains": [],
+  "blocked_domains": [
+    "france24.com",
+    "www.france24.com",
+    "podcasts.france24.com",
+    "rfi.fr"
+  ],
   "blocked_keywords": [
     { "term": "almanar", "reason": "Designated FTO/SDGT affiliation (UN/EU/US)" },
-    { "term": "almasirah", "reason": "Designated Terrorist Org affiliation (UN/EU/US)" }
+    { "term": "almasirah", "reason": "Designated Terrorist Org affiliation (UN/EU/US)" },
+    { "term": "france 24", "reason": "Feed returns no episodes (empty)" },
+    { "term": "france24", "reason": "Feed returns no episodes (empty)" },
+    { "term": "فرانس 24", "reason": "Feed returns no episodes (empty)" },
+    { "term": "فرانس24", "reason": "Feed returns no episodes (empty)" }
   ],
   "exact_blacklist": [
     { "term": "ناصر محمد اليماني", "reason": "Extremist religious content (app content policy)" },
     { "term": "قناة المنار", "reason": "Designated affiliate" },
     { "term": "حازم صلاح أبو إسماعيل", "reason": "Blocked by app content policy" },
     { "term": "الكتاب المقدس في سنة واحدة كلاسيك", "reason": "Blocked by app content policy" },
-    { "term": "Mech 3ayb | مش عيب", "reason": "Blocked by app content policy" }
+    { "term": "Mech 3ayb | مش عيب", "reason": "Blocked by app content policy" },
+    { "term": "FRANCE 24", "reason": "Feed returns no episodes (empty)" },
+    { "term": "فرانس 24", "reason": "Feed returns no episodes (empty)" }
   ]
 }
